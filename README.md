@@ -1,4 +1,4 @@
-# 🍑 Zurab Ibro 
+# 🙌🏻 Zurab Ibro 
 
 **`FrontEnd-Developer(React, JavaScript, TypeScript, HTML, CSS)`**
 
